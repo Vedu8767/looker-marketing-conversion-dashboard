@@ -1,0 +1,10 @@
+date,channel,last_click_revenue,linear_revenue,time_decay_revenue
+2025-01-01,Instagram,1800,1600,1700
+2025-01-01,YouTube,3500,3300,3450
+2025-01-01,LinkedIn,700,650,680
+2025-01-02,Instagram,1900,1700,1800
+2025-01-02,YouTube,3600,3400,3550
+2025-01-02,LinkedIn,750,680,710
+2025-01-03,Instagram,1850,1650,1750
+2025-01-03,YouTube,3450,3250,3380
+2025-01-03,LinkedIn,720,660,690

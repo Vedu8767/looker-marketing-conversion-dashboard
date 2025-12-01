@@ -1,0 +1,10 @@
+date,channel,avg_session_duration,events_per_session,bounce_rate
+2025-01-01,Instagram,92,3.4,52
+2025-01-01,YouTube,110,4.2,47
+2025-01-01,LinkedIn,80,2.9,55
+2025-01-02,Instagram,95,3.6,51
+2025-01-02,YouTube,112,4.3,46
+2025-01-02,LinkedIn,82,3,54
+2025-01-03,Instagram,94,3.5,50
+2025-01-03,YouTube,108,4.1,48
+2025-01-03,LinkedIn,78,2.8,56
